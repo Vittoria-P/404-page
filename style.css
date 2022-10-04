@@ -1,0 +1,27 @@
+body{
+    background: black;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+img{
+    text-align: center;
+}
+button{
+    background-color: black;
+    border: none;
+}
+
+a:link{
+    text-decoration-line: none;
+    color:  black;
+}
+a:hover{
+    color: white;
+}
+a:visited{
+    color:  black;
+}
+a:active{
+    color: white;
+}
